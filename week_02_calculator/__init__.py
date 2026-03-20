@@ -2,5 +2,7 @@
 
 #def to calculate the price of a product after discount
 
+
+
 def calculate_disounted_price():
     pass
