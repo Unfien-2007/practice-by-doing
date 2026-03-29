@@ -1,8 +1,8 @@
 #shoud be done to practice functions and modules in python
 
-#def to calculate the price of a product after discount
+num1 = int(input("Enter First Number:"))
+num2 = int(input("Enter Second Number:"))
 
-
-
-def calculate_disounted_price():
-    pass
+def addition():
+    result = num1 + num2
+    return result
