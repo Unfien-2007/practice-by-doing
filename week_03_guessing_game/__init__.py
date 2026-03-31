@@ -3,4 +3,9 @@
 import random as rd
 
 
-guess = int(input("nput Guess(1-99): "))
+guess = int(input("Input Guess(1-99): "))
+
+#logic 
+
+answer = rd.randrange(1,99)
+
