@@ -1,4 +1,6 @@
 #random guese game
 
 import random as rd
-gffdfasxagff
+
+
+guess = int(input("nput Guess(1-99): "))
