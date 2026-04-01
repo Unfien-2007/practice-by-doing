@@ -10,5 +10,6 @@ guess = int(input("Input Guess(1-99): "))
 answer = rd.randrange(1,99)
 
 
+if answer = guess :
 
 
