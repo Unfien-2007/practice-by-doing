@@ -1,5 +1,30 @@
 # To Do LIST
 
+def create_task():
+    pass
+
+def delete_task():
+    pass
+
+def view_task():
+    pass
+
+def arrange_task():
+    pass
+
+def exit():
+    pass
+
+def display():
+    pass
+
+
+
+
+
+
+
+#--------------
 
 
 
@@ -10,6 +35,4 @@ MENU = """
     3. View Task.
     4. Arrange Task.
     5. EXIT.
-
-
 """
