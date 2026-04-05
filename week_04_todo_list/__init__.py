@@ -1,10 +1,6 @@
 # To Do LIST
 
 
-#ihiuriifiifr
-#hhefjvvh
-
-
 def create_task():
     pass
 
