@@ -1,5 +1,10 @@
 # To Do LIST
 
+
+#ihiuriifiifr
+#hhefjvvhvjfvejv
+
+
 def create_task():
     pass
 
@@ -26,9 +31,10 @@ def display():
 
 
 MENU = """
+==== TO DO LIST =====
     1. Create Task.
-    2. Delete Task.
-    3. View Task.
+    2. View Task.
+    3. Delete Task.
     4. Arrange Task.
     5. EXIT.
 """
